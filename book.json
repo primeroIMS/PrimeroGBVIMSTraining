@@ -1,0 +1,25 @@
+{
+    "title" : "Primero GBVIMS Training",
+    "github" : false,
+    "plugins" : [ "-mathjax", "-mixpanel",  "-search", "edit-link", "downloadpdf"],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/primeroIMS/PrimeroGBVIMSTraining/edit/master",
+                "label": "Edit This Page"
+            },
+            "downloadpdf": {
+                 "base": "https://www.gitbook.com/download/pdf/book/primero/primero-gbvims-training-guide",
+                 "label": "Download PDF",
+                 "multilingual": false
+    }
+    },
+    "links" : {
+      "sidebar": {
+        },
+      "sharing" : {
+        "google" : null,
+        "twitter" : null,
+        "facebook" : null
+      }
+    }
+}
